@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Search History Extension",
+  "version": "1.0",
+  "description": "A Firefox extension to display and manage search history.",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": [
+    "history"
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}

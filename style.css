@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+button {
+  background-color: #808080;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #808080;
+}
+
+button:active {
+  background-color: #808080;
+}
